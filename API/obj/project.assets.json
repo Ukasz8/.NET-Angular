@@ -2531,11 +2531,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Documents\\kurs\\.NET + Angular\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Documents\\kurs\\.NET-Angular\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\Admin\\Documents\\kurs\\.NET + Angular\\API\\API.csproj",
+      "projectPath": "C:\\Users\\Admin\\Documents\\kurs\\.NET-Angular\\API\\API.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Documents\\kurs\\.NET + Angular\\API\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Documents\\kurs\\.NET-Angular\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ryOekfmxg7MOBIcTfEeyg5RKCjte35TbWjcKyyZKjjxiZulZzoRfKhFYfp9PdRYruAXxdgei2rOua0xodmJGtQ==",
+  "dgSpecHash": "nRyNY4/ZpXc4lsb8MCaWgVO9TqE9MJ5z094RA0Q/IUrBlZXyIMK6z1OtckD5ID0EhARKBlhaLNH48DJWjP8JFA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\Documents\\kurs\\.NET + Angular\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Documents\\kurs\\.NET-Angular\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
